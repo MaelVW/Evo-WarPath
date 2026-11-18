@@ -1,0 +1,4 @@
+# Grosse Binaerdateien liegen im GitHub-Release (Assets bis 2 GB),
+# nicht im Git-Baum (GitHub lehnt Dateien ueber 100 MB ab).
+/Evo-WarPath-Setup.exe
+/build/Spiel.zip
